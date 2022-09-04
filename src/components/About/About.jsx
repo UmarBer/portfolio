@@ -40,10 +40,12 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nostrum
-            doloribus nesciunt a error repellendus unde omnis facilis expedita.
-            Quaerat dolor fugiat velit voluptatum obcaecati omnis repudiandae,
-            hic veritatis soluta corrupti?
+            Hello there! My name is Umar Bermejo, I started programming in
+            January 2022 when I joined Ironhack's Bootcamp. Since the I've loved
+            every new aspect of this field. I'm a person that adapts in
+            collaborative environments and that is able to stay focused and
+            goal-oriented. I'm eager to start my career as a Web Developer and
+            look forward to growing and learning more everyday.
           </p>
 
           <a href="#contact" className="btn btn-primary">
